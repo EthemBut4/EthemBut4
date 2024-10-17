@@ -5,17 +5,25 @@
 
 Backend Technologies: Laravel, Encore, Express
 Frontend Technologies: Next.js, React, Tailwind CSS
+
+
 🔭 Current Projects:
 
 Various open-source projects and web applications that I am actively developing
+
+
 🌱 Topics I Am Continuously Learning and Improving:
 
 Advanced backend and frontend development techniques
 Exploring new programming languages and modern technologies
+
+
 🎯 My Goals:
 
 To excel in full-stack development and contribute to large-scale projects
 Continuously expand my knowledge in open-source contributions
+
+
 📫 Contact Me: LinkedIn
 
 Let me know if you want any further changes!
